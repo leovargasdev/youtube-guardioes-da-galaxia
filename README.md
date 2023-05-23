@@ -28,6 +28,6 @@ Este projeto é um tutorial que ensina a como criar o site dos **Guardiões da G
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://www.youtube.com/watch?v=HMLebsSn_P8" target="_blank">
- <img src="https://img.youtube.com/vi/HMLebsSn_P8/maxresdefault.jpg" width="100%" height="auto" />
+<a href="https://www.youtube.com/watch?v=NdQ9k3SWrRc" target="_blank">
+ <img src="https://img.youtube.com/vi/NdQ9k3SWrRc/maxresdefault.jpg" width="100%" height="auto" />
 </a>
