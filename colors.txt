@@ -1,0 +1,39 @@
+#member__name {
+  font-size: 150px;
+  letter-spacing: 6px;
+  font-weight: 400;
+
+  color: transparent;
+  font-family: 'Star Guard Italic';
+  padding-right: 10px;
+}
+
+#member__name.peter {
+  background: var(--peter);
+  -webkit-background-clip: text;
+}
+
+#member__name.gamora {
+  background: var(--gamora);
+  -webkit-background-clip: text;
+}
+
+#member__name.drax {
+  background: var(--drax);
+  -webkit-background-clip: text;
+}
+
+#member__name.mantis {
+  background: var(--mantis);
+  -webkit-background-clip: text;
+}
+
+#member__name.rocket {
+  background: var(--rocket);
+  -webkit-background-clip: text;
+}
+
+#member__name.groot {
+  background: var(--groot);
+  -webkit-background-clip: text;
+}
